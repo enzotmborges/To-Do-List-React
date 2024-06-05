@@ -1,0 +1,36 @@
+
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-container {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.input-field {
+    flex: 1;
+    padding: 8px;
+}
+
+.add-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    pad: 8px;
+    cursor: pointer;
+}
+
+.todo-list {
+    list-style: none;
+    padding: 0;
+}
+
+.todo-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
